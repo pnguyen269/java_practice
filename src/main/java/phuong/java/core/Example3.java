@@ -1,3 +1,4 @@
+
 package phuong.java.core;
 
 public class Example3 {
@@ -12,3 +13,4 @@ public class Example3 {
 		return sum;
 	}
 }
+
